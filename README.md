@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Dinesh Kumar
 
-Software Engineer @ Zoho Corporation
+
 <img align="right" width="370" height="290" src="https://ibb.co/8rxthN7">
                                               
 - 🌱 I’m currently learning java script
