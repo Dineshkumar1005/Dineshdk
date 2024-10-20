@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Dinesh Kumar
 
 
-<img align="right" width="370" height="290" src="https://ibb.co/8rxthN7">
+<img align="right" width="370" height="290" src="[https://ibb.co/8rxthN7](https://ibb.co/8rxthN7)">
                                               
 - 🌱 I’m currently learning java script
 - 👯 I’m looking to collaborate on web developing 
@@ -16,8 +16,7 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
-<img height = "50" width="50" src = "https://colab.research.google.com/img/colab_favicon_256px.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height = "50" width="50" src = "https://colab.research.google.com/img/colab_favicon_256px.png" />
 
 
 ### 💻 Workspace Spec
