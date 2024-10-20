@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Dinesh Kumar
 
 
-<img align="right" width="370" height="290" src="[https://ibb.co/8rxthN7](https://ibb.co/8rxthN7)">
+<img align="right" width="370" height="290" src="https://ibb.co/8rxthN7" />
                                               
 - 🌱 I’m currently learning java script
 - 👯 I’m looking to collaborate on web developing 
