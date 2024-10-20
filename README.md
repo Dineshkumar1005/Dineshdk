@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Dinesh Kumar
 
 
-<img align="right" width="300" height="100" src="https://i.ibb.co/Z6yQvQS/Whats-App-Image-2024-10-06-at-23-17-56-24e07168.jpg" alt="Whats-App-Image-2024-10-06-at-23-17-56-24e07168" border="0" />
+<img align="right" width="150" height="100" src="https://i.ibb.co/Z6yQvQS/Whats-App-Image-2024-10-06-at-23-17-56-24e07168.jpg" alt="Whats-App-Image-2024-10-06-at-23-17-56-24e07168" border="0" />
                                               
 - 🌱 I’m currently learning java script
 - 👯 I’m looking to collaborate on web developing 
